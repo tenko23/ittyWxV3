@@ -1,7 +1,7 @@
 # ittyWxV3
 ittyWxV3 (Internet Weather for Teletype version 3)
 
-(version 3 supersedes version 1)
+	(version 3 supersedes version 1)
 
 
 This readme will help you get going with ittyWx - Internet Weather for Teletype!  ittyWxV3 will allow you to get near real time weather alerts & bulletins, current conditions and forecasts from the National Weather Service API servers -- printed out straight onto your Teletype!
